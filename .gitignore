@@ -52,3 +52,4 @@ Makefile
 # local build(s)
 build*
 
+*.DS_Store
